@@ -144,6 +144,12 @@ Always respect ethical and legal guidelines.
 
 Pull requests, feature improvements, and bug fixes are welcome!
 
+🏆 Author
+
+C Asmitha 
+This project was created as part of academic and training tasks focusing on cryptography basics.
+
 📜 License
 
 This project is released under the MIT License.
+
